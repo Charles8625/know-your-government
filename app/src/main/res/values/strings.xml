@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Know Your Government</string>
+    <string name="official_name">Joseph Biden</string>
+    <string name="official_office">President of the United States</string>
+    <string name="official_party">(Democratic)</string>
+    <string name="about">about</string>
+    <string name="search">search</string>
+    <string name="copyright">© 2020, Charles Woythal</string>
+    <string name="know_your_government">Know Your Government</string>
+    <string name="powered_by">Powered By</string>
+    <string name="google_civic_information_api">Google Civic Information API</string>
+    <string name="address">Address:</string>
+    <string name="phone">Phone:</string>
+    <string name="email">Email:</string>
+    <string name="website">Website:</string>
+    <string name="address_info">address info</string>
+    <string name="phone_info">phone info</string>
+    <string name="email_info">email info</string>
+    <string name="website_info">website info</string>
+    <string name="office_info">office info</string>
+    <string name="name_info">name info</string>
+    <string name="party_info">party info</string>
+    <string name="u_s_office">U.S. Office</string>
+    <string name="official_name2">Official Name</string>
+    <string name="no_data">No Data For Location</string>
+</resources>
